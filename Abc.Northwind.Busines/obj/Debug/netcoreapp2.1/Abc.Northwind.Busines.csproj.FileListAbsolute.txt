@@ -1,0 +1,16 @@
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Northwind.Busines.deps.json
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Northwind.Busines.dll
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Northwind.Busines.pdb
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Core.dll
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.dll
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.dll
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.pdb
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.pdb
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\bin\Debug\netcoreapp2.1\Abc.Core.pdb
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\obj\Debug\netcoreapp2.1\Abc.Northwind.Busines.csprojAssemblyReference.cache
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\obj\Debug\netcoreapp2.1\Abc.Northwind.Busines.csproj.CoreCompileInputs.cache
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\obj\Debug\netcoreapp2.1\Abc.Northwind.Busines.AssemblyInfoInputs.cache
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\obj\Debug\netcoreapp2.1\Abc.Northwind.Busines.AssemblyInfo.cs
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\obj\Debug\netcoreapp2.1\Abc.Northwind.Busines.csproj.CopyComplete
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\obj\Debug\netcoreapp2.1\Abc.Northwind.Busines.dll
+C:\Users\cemil.kalyoncu\source\repos\Abc\Abc.Northwind.Busines\obj\Debug\netcoreapp2.1\Abc.Northwind.Busines.pdb
